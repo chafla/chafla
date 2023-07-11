@@ -1,4 +1,10 @@
-### Hi there 👋
+Hey! I'm a BS/MS student @ Rochester Institute of Technology, graduating in 2024.
+I started out self-taught with a Python discord bot [Porygon2](https://github.com/chafla/Pory2), before taking other courses and eventually going to RIT for CS.
+
+This account is still primarily my public face for most work, but lately I've been focusing on contributing to an open-source game, Space Station 13. 
+Most of my contributions there can be found at https://github.com/lewcc.
+
+
 
 <!--
 **chafla/chafla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
